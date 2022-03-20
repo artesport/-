@@ -1,3 +1,3 @@
 # Arte-Sport
 
-https://artesport.github.io/Arte-Sport/
+link: https://artesport.github.io/-/
